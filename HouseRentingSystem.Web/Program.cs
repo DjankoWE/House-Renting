@@ -10,7 +10,6 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using HouseRentingSystem.Web.Controllers;
-using Microsoft.Extensions.FileSystemGlobbing.Internal.Patterns;
 using HouseRentingSystem.Services.Rents;
 
 var builder = WebApplication.CreateBuilder(args);

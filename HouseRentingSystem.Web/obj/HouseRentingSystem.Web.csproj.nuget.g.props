@@ -13,12 +13,11 @@
     <SourceRoot Include="/Users/djany/.nuget/packages/" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore/6.0.11/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore/6.0.11/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props')" />
-    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui/6.0.11/build/Microsoft.AspNetCore.Identity.UI.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui/6.0.11/build/Microsoft.AspNetCore.Identity.UI.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.codeanalysis.analyzers/3.11.0/buildTransitive/Microsoft.CodeAnalysis.Analyzers.props" Condition="Exists('$(NuGetPackageRoot)microsoft.codeanalysis.analyzers/3.11.0/buildTransitive/Microsoft.CodeAnalysis.Analyzers.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore/10.0.1/buildTransitive/net10.0/Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore/10.0.1/buildTransitive/net10.0/Microsoft.EntityFrameworkCore.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui/10.0.1/build/Microsoft.AspNetCore.Identity.UI.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.identity.ui/10.0.1/build/Microsoft.AspNetCore.Identity.UI.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgMessagePackAnalyzer Condition=" '$(PkgMessagePackAnalyzer)' == '' ">/Users/djany/.nuget/packages/messagepackanalyzer/2.1.152</PkgMessagePackAnalyzer>
-    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">/Users/djany/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
-    <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">/Users/djany/.nuget/packages/microsoft.codeanalysis.analyzerutilities/3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">/Users/djany/.nuget/packages/microsoft.codeanalysis.analyzers/3.11.0</PkgMicrosoft_CodeAnalysis_Analyzers>
   </PropertyGroup>
 </Project>
