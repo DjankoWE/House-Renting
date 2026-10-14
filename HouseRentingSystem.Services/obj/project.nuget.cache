@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PRFvuPUlpfA=",
+  "dgSpecHash": "hK6MrZCG9Dg=",
   "success": true,
-  "projectFilePath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+  "projectFilePath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
   "expectedPackageFiles": [
     "/Users/djany/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/Users/djany/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -51,9 +51,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'AutoMapper' 12.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
-      "projectPath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "projectPath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "filePath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net10.0"
@@ -63,9 +63,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.Data.SqlClient' 2.1.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
-      "projectPath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "projectPath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "filePath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "libraryId": "Microsoft.Data.SqlClient",
       "targetGraphs": [
         "net10.0"
@@ -75,9 +75,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.Extensions.Caching.Memory' 6.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
-      "projectPath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "projectPath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "filePath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "libraryId": "Microsoft.Extensions.Caching.Memory",
       "targetGraphs": [
         "net10.0"
@@ -87,9 +87,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'Microsoft.IdentityModel.JsonWebTokens' 6.8.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "projectPath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "projectPath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "filePath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
       "targetGraphs": [
         "net10.0"
@@ -99,9 +99,9 @@
       "code": "NU1904",
       "level": "Warning",
       "message": "Package 'System.Drawing.Common' 4.7.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
-      "projectPath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "projectPath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "filePath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "libraryId": "System.Drawing.Common",
       "targetGraphs": [
         "net10.0"
@@ -111,9 +111,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.8.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "projectPath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "projectPath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+      "filePath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net10.0"

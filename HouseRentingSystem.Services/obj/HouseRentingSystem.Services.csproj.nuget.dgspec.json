@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj": {}
+    "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj": {}
   },
   "projects": {
-    "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj": {
+    "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+        "projectUniqueName": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
         "projectName": "HouseRentingSystem.Services",
-        "projectPath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
+        "projectPath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/HouseRentingSystem.Services.csproj",
         "packagesPath": "/Users/djany/.nuget/packages/",
-        "outputPath": "/Users/djany/Programming/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/04-House-Renting-System-App/HouseRentingSystem.Services/obj/",
+        "outputPath": "/Users/djany/Programming/DevOps/10-Exercise-CI-CD-Jenkins-Resources/04-House-Renting-System-App/House-Renting/HouseRentingSystem.Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/djany/.nuget/NuGet/NuGet.Config"
