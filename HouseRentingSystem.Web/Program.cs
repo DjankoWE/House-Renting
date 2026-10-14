@@ -31,6 +31,7 @@ builder.Services.AddDefaultIdentity<User>(options =>
     .AddEntityFrameworkStores<HouseRentingDbContext>();
 
 builder.Services.AddAutoMapper(
+    _ => { },
     typeof(IHouseService).Assembly,
     typeof(HomeController).Assembly);
 
@@ -87,4 +88,3 @@ app.UseEndpoints(endpoints =>
 });
 
 app.Run();
-
